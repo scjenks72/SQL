@@ -1,7 +1,7 @@
 > [!TIP]
 > Read this first.
 
-# SQL
+# SQL - Structured Query Language
 ## Simon's SQL Portfolio
 ### Welcome to my SQL portfolio! 
 
