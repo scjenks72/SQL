@@ -5,4 +5,4 @@
 ## Simon's SQL Portfolio
 ### Welcome to my SQL portfolio! 
 
-This code repository contains examples of SQL code I've written myself. Feel free to take a look and reach out if you have any questions.
+This code repository contains examples of SQL code I've written myself. Feel free to take a look and reach out if you have any questions :)
